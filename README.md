@@ -1,5 +1,5 @@
 # numpy
-# numpy
+
 numpy notes for data analysis
 
 **numpy basics**
